@@ -1,6 +1,6 @@
-#李风哲 72510885
-#王晔宸 72510652
-#丁习原 72510025
+#李风哲 72510885 520zhouyufan1314-bot
+#王晔宸 72510652 11wangyechen
+#丁习原 72510025 dingle00
 def is_win(game):
     win = False
     # Check rows
