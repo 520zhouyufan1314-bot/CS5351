@@ -1,3 +1,6 @@
+#李风哲 72510885
+#王晔宸 72510652
+#丁习原 72510025
 def is_win(game):
     win = False
     # Check rows
