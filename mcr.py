@@ -81,3 +81,4 @@
          for row in game:
 -            print(" ".join(row))
 +            print("| " + " | ".join(row) + " |")  # Add board borders for clarity
+             print('1')
